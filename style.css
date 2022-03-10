@@ -52,3 +52,102 @@ margin-right: 30px;
     height: 300px;
     width: 700px;
 }
+.happy{
+    padding-left: 30px;
+}
+.row{
+ margin-top: 50px;   
+}
+.buttonmore{
+margin-top: 30px;
+margin-left: 500px;
+margin-bottom: 30px;
+}
+.buttonmore button{
+    width: 190px;
+    border-radius: 0%;
+    font-weight: 500;
+}
+.img1 img{
+    width: 100%;
+    height: 500px;
+}
+.img1 h3{
+    position: absolute;
+    top: 2000px;
+    padding-left: 250px;
+    padding-right: 250px;
+    color: white;
+}
+.col img{
+    width: 300px;
+    height: 550px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.col1{
+    display: flex;
+    flex-direction: column;
+}
+.photo2{
+    display: flex;
+    flex-direction:row ;
+}
+.photo1 img{
+    height: 300px;
+    width: 600px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.photo2 img{
+    height: 200px;
+    width: 200px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.photo{
+    margin: 30px;
+    margin-left: 115px;
+    margin-right: 115px;
+}
+.futter{
+    display: flex;
+    background-color: rgb(238, 238, 238);
+    width: 100%;
+    height: 300px;
+}
+.futter1{
+    padding: 40px;
+}
+.futter1 p{
+    font-weight: 500;
+}
+.futter1 a{
+    text-decoration: none;
+    color: black;
+}
+.futter2 p{
+    font-weight: 500;
+}
+.futter2 a{
+    text-decoration: none;
+    color: black;
+}
+.futter2{
+    padding: 40px;
+}
+.futter3 p{
+    font-weight: 500;
+}
+.futter3{
+    padding: 40px;
+}
+.futter4{
+    padding: 40px;
+    
+}
+.futter4 p{
+    font-weight: 500;
+}
+.futter4 button{
+    margin: 10px;
+    margin-left: 0px;
+    font-weight: 500;
+}
