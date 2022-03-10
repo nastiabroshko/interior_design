@@ -1,0 +1,34 @@
+.navbar {
+    position: absolute;
+}
+
+.main-img img{
+    width: 100%;
+    height: 630px;
+}
+.navbar-brand{
+    background-color: black;
+
+}
+.navbar-light .navbar-toggler {
+margin-right: 30px;
+}
+.info-photo p{
+    font-size: 60px;
+    position: absolute;
+    top: 150px;
+    right: 50px;
+    color: white;
+    font-weight: 50;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.info{
+    margin-left: 300px;
+    margin-right: 300px;
+    text-align: center;
+}
+.info span{
+    font-size: 30px;
+    opacity: 0.7;
+    font-weight: 100;
+}
